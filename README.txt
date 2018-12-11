@@ -1,0 +1,1 @@
+This is my game of war project for my Deacom interview. To run the app, navigate to the dist folder and execute the jar file.
